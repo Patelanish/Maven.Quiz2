@@ -37,7 +37,6 @@ public class AddTest {
         test(expectedPath, controller);
     }
 
-
     private void test(String expectedPath, String controller) {
         // given
         Router router = new Router();
